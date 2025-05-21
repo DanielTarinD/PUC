@@ -1,0 +1,81 @@
+{
+  "_from": "datatables.net-buttons-bs5@^2.2.2",
+  "_id": "datatables.net-buttons-bs5@2.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-pQVBLBkG+G85eldTxEyU7SqqIn009pirbylmRAA+Ll9KYwsbyflQOZrTqKVKH6N4ycLjyR6gwtHeLgGnK23tBQ==",
+  "_location": "/datatables.net-buttons-bs5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "datatables.net-buttons-bs5@^2.2.2",
+    "name": "datatables.net-buttons-bs5",
+    "escapedName": "datatables.net-buttons-bs5",
+    "rawSpec": "^2.2.2",
+    "saveSpec": null,
+    "fetchSpec": "^2.2.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/datatables.net-buttons-bs5/-/datatables.net-buttons-bs5-2.2.3.tgz",
+  "_shasum": "816ad321142a6cc343d0a805fcbff2891387c6f1",
+  "_spec": "datatables.net-buttons-bs5@^2.2.2",
+  "_where": "D:\\Xampp_old\\htdocs\\padron",
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "bugs": {
+    "url": "https://datatables.net/forums"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "datatables.net-bs5": ">=1.11.3",
+    "datatables.net-buttons": ">=2.0.1",
+    "jquery": ">=1.7"
+  },
+  "deprecated": false,
+  "description": "Buttons for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
+  "files": [
+    "css/**/*.css",
+    "js/**/*.js",
+    "types/**/*.d.ts"
+  ],
+  "homepage": "https://datatables.net",
+  "ignore": [
+    "composer.json",
+    "datatables.json",
+    "package.json"
+  ],
+  "keywords": [
+    "Buttons",
+    "Column Visibility",
+    "csv",
+    "excel",
+    "pdf",
+    "print",
+    "Bootstrap",
+    "Bootstrap5",
+    "Datatables",
+    "jQuery",
+    "table",
+    "filter",
+    "sort"
+  ],
+  "license": "MIT",
+  "main": "js/buttons.bootstrap5.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node"
+  ],
+  "name": "datatables.net-buttons-bs5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Buttons-Bootstrap5.git"
+  },
+  "style": "css/buttons.bootstrap5.css",
+  "types": "./types/buttons.bootstrap5.d.ts",
+  "version": "2.2.3"
+}

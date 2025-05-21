@@ -1,0 +1,51 @@
+.section {
+  text-align: right;
+  -o-object-fit: fill;
+  object-fit: fill;
+}
+
+.text-block {
+  text-align: right;
+}
+
+.fecha {
+  text-align: right;
+}
+
+.leyenda {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.qr {
+    padding-top: 40px;
+}
+
+
+.primer-texto {
+  margin-top: 15px;
+  font-size:16px;
+}
+
+.segundo-texto {
+  margin-top: 15px;
+  font-size:16px;
+}
+
+.firma {
+  text-align: center;
+  font-size:14px;
+}
+
+.text-block-3 {
+  text-align: justify;
+}
+
+.text-block-4 {
+  text-align: justify;
+}
+
+.section-6 {
+  margin-top: 15px;
+}
+

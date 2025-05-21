@@ -1,0 +1,77 @@
+{
+  "_from": "datatables.net-scroller-bs5@^2.0.5",
+  "_id": "datatables.net-scroller-bs5@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-HSwz9E4L/4oqOfludlZ2HvQq6MOk7Pgk05qMoGi+GVgJ3ZarIQFmhtbMlP32IsDDAMtnX2aRvMW2C8J7zMj7fQ==",
+  "_location": "/datatables.net-scroller-bs5",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "datatables.net-scroller-bs5@^2.0.5",
+    "name": "datatables.net-scroller-bs5",
+    "escapedName": "datatables.net-scroller-bs5",
+    "rawSpec": "^2.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/datatables.net-scroller-bs5/-/datatables.net-scroller-bs5-2.0.6.tgz",
+  "_shasum": "cb757234f959f763c41c70e418fbec56822c09f6",
+  "_spec": "datatables.net-scroller-bs5@^2.0.5",
+  "_where": "D:\\Xampp_old\\htdocs\\padron",
+  "author": {
+    "name": "SpryMedia Ltd",
+    "url": "http://datatables.net"
+  },
+  "bugs": {
+    "url": "https://datatables.net/forums"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "datatables.net-bs5": ">=1.11.3",
+    "datatables.net-scroller": ">=2.0.5",
+    "jquery": ">=1.7"
+  },
+  "deprecated": false,
+  "description": "Scroller for DataTables with styling for [Bootstrap5](https://getbootstrap.com/)",
+  "files": [
+    "css/**/*.css",
+    "js/**/*.js",
+    "types/**/*.d.ts"
+  ],
+  "homepage": "https://datatables.net",
+  "ignore": [
+    "composer.json",
+    "datatables.json",
+    "package.json"
+  ],
+  "keywords": [
+    "Scroller",
+    "Virtual Scrolling",
+    "Bootstrap",
+    "Bootstrap5",
+    "Datatables",
+    "jQuery",
+    "table",
+    "filter",
+    "sort"
+  ],
+  "license": "MIT",
+  "main": "js/scroller.bootstrap5.js",
+  "moduleType": [
+    "globals",
+    "amd",
+    "node"
+  ],
+  "name": "datatables.net-scroller-bs5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataTables/Dist-DataTables-Scroller-Bootstrap5.git"
+  },
+  "style": "css/scroller.bootstrap5.css",
+  "types": "./types/scroller.bootstrap5.d.ts",
+  "version": "2.0.6"
+}
